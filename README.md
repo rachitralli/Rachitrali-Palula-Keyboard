@@ -1,5 +1,3 @@
-# Rachitrali-Palula-Keyboard
-Rachitrali-Palula Keyboard for Pakistani Language
 Keyboard Data
 -------------
 
@@ -48,4 +46,3 @@ Supported Platforms
  
 Todo
 ----
-
