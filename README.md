@@ -34,6 +34,7 @@ Links
 -----
 
  * Home:    https://keyman.com/
+ * KeymanWeb: https://keymanweb.com/#phl,Keyboard_rac_palula 
  * Help:    https://help.keyman.com/keyboard/rac_palula
  * Contact: <rachitrali@yahoo.com>
  * Contact: <khowaracademy@yahoo.com>
